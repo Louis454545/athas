@@ -13,6 +13,8 @@ Designed for developers who want a fast and customizable development environment
 | Linux    | x64          | [Download AppImage](https://github.com/athasdev/athas/releases/latest/download/athas_amd64.AppImage) |
 
 > **Note**: The release workflow builds automatically when new version tags are pushed. macOS builds include both Apple Silicon and Intel architectures.
+> 
+> **Windows Development Builds**: You can also manually trigger Windows-only builds via GitHub Actions for testing. See [build-windows.md](docs/build-windows.md) for details.
 
 ---
 
